@@ -1,0 +1,8 @@
+{
+	"name": "dnbradio",
+	"private": true,
+	"main": "index.js",
+	"version": "0.0.1",
+	"thelounge": { "type": "package" },
+	"keywords": ["thelounge", "thelounge-package"]
+}
